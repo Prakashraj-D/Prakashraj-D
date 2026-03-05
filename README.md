@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Prakash Raj
 
-<!--
-**Prakashraj-D/Prakashraj-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Enthusiast | SOC Analyst | Security Automation
 
-Here are some ideas to get you started:
+I am passionate about cybersecurity, threat detection, and security automation.  
+Currently building hands-on labs and projects related to SOC operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Skills
+
+• Linux Security  
+• Bash & Python Automation  
+• Network Security  
+• Wireshark  
+• SIEM & Log Analysis  
+• Threat Detection  
+
+---
+
+## 🔬 Cybersecurity Projects
+
+🔹 Wazuh FortiGate Threat Detection  
+🔹 Security SOAR Automation Lab  
+🔹 Linux Threat Detection using Auditd 
+🔹 Wireshark Network Analysis  
+
+---
+
+## 📚 Currently Learning
+
+• SOC Analyst Operations  
+• Incident Response  
+• Threat Hunting  
+• Security Automation  
+
+---
+
+## 📫 Contact
+
+Email: prakashrajd15@gmail.com
+GitHub: https://github.com/Prakashraj-D
